@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-# Strip Api call backend
-url https://codesandbox.io/s/node-stripe-checkout-final-forked-zbbrj?file=/src/index.js:966-971
+# Stripe Api call backend
+Url:-   https://codesandbox.io/s/node-stripe-checkout-final-forked-zbbrj?file=/src/index.js:966-971
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
